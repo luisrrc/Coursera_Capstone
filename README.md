@@ -1,2 +1,3 @@
 # Coursera_Capstone
-Ignore the "assingment week 3"
+# Segmenting and Clustering Neighborhoods in Toronto is the assingment for week 3.
+
